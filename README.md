@@ -9,4 +9,4 @@ Instalacja:
 
 3: Zedytować plik includes/dbh.inc.php jesli chcemy udostępnić aplikacje w sieci.
 
-3a: Moża również uruchomić aplikacje lokalnie.
+3a: Moża również uruchomić aplikacje lokalnie wtedy nie trzeba nic zmieniać.
